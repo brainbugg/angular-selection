@@ -1,0 +1,18 @@
+body
+{
+	font-family: 'Calibri Light';
+	margin-top: 20px;
+}
+
+.box.highlighted
+{
+	background-color: #d6d6d6;
+	border: 1px solid #3d81ee;
+	box-shadow: 1px 2px 3px #777;
+}
+
+.box
+{
+	cursor: pointer;
+	border: 1px solid transparent;
+}
